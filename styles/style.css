@@ -222,7 +222,7 @@
   box-sizing: border-box;
 }
 
-.section-title__theme_dark {
+.section-title_theme_dark {
   color: white;
   z-index: 2;
 }
@@ -241,7 +241,7 @@
   z-index: 2;
 }
 
-.triangle {
+.kaufman__triangle {
   width: 871px;
   height: 871px;
   position: absolute;
